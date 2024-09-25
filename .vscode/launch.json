@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kamalnayan/Documents/Developer/DSA/01_graph",
+      "program": "/Users/kamalnayan/Documents/Developer/DSA/01_graph/build/Debug/outDebug"
+    }
+  ]
+}
